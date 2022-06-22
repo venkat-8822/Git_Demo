@@ -6,6 +6,12 @@ public class parentclass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("my git code 1");
+		System.out.println("my git code 2");
+		System.out.println("my git code 3");
+		System.out.println("my git code 4");
+		System.out.println("my git code 5");
+		
+		
 
 	}
 
